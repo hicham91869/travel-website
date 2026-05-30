@@ -37,7 +37,7 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/travel-website.git
+# git clone https://github.com/your-username/travel-website.git
 
 
 
@@ -47,8 +47,6 @@ git clone https://github.com/your-username/travel-website.git
 ![S1](s1.png)
 ![About](about.png)
 ![Contact](contact.png)
-
-
 
 
 
