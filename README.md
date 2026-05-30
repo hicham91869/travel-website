@@ -34,13 +34,12 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository
-
-```bash
-# git clone https://github.com/your-username/travel-website.git
+# Clone the repository
 
 
-## Project Screenshots
+
+
+# Project Screenshots
 
 ![Screen del sito](screen1.png)
 
