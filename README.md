@@ -41,7 +41,7 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-<img src="https://github.com" width="600" alt="S1" />
+![S1](s1.png)
 
 
 
