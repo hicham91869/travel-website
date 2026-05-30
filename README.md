@@ -45,6 +45,9 @@ git clone https://github.com/your-username/travel-website.git
 ## screenshots
 
 ![S1](https://githubusercontent.com)
+![About](https://githubusercontent.com)
+![Contact](https://githubusercontent.com)
+
 
 
 
