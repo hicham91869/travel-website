@@ -43,13 +43,11 @@ git clone https://github.com/your-username/travel-website.git
 
 
 
-
-![Home](./public/images/home.PNG)
-![Services](./public/images/services.PNG)
-![Contact](./public/images/contact.PNG)
-![Favorites](./public/images/favorites.PNG)
-![About](./public/images/about.PNG)
-
+![Home](public/images/home.png)
+![Services](public/images/services.png)
+![Contact](public/images/contact.png)
+![Favorites](public/images/favorites.png)
+![About](public/images/about.png)
 
 
 
