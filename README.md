@@ -44,9 +44,10 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## screenshots
 
-![S1](s1.png)
-![About](about.png)
-![Contact](contact.png)
+![S1](https://githubusercontent.com)
+![About](https://githubusercontent.com)
+![Contact](https://githubusercontent.com)
+
 
 
 
