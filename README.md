@@ -41,7 +41,9 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-![S1](s1.png)
+
+<img width="669" height="360" alt="Image" src="https://github.com/user-attachments/assets/1835562b-518d-4e72-a23b-35408ea5ec87" />
+
 
 
 
