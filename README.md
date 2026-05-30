@@ -41,7 +41,8 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-![image alt](https://github.com/user-attachments/assets/82009315-f48e-48af-8ac3-83ff7be8d77a)
+![Image](https://github.com/user-attachments/assets/adbe8b66-2fef-4508-85f5-9ca9a5cf8593)
+
 
 
 
