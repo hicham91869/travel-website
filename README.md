@@ -42,16 +42,6 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## Project Screenshots
 
-<img src="https://i.postimg.cc/MHKbYWrK/home.png" alt="Home Screen" width="100%" />
-
-<img src="https://i.postimg.cc/T3Wj0NQL/services.png" alt="Services Screen" width="100%" />
-
-<img src="https://i.postimg.cc/Qx8n6DWH/contact.png" alt="Contact Screen" width="100%" />
-
-<img src="https://i.postimg.cc/zXvFbGg7/favorites.png" alt="Favorites Screen" width="100%" />
-
-<img src="https://i.postimg.cc/Y0nNnJJs/about.png" alt="About Screen" width="100%" />
-
 ![alt image](https://github.com/tarekhasanalnayef/travel-website/blob/f170b6c281242e8a208f8f19cf0458daeeb54acb/screen1.png)
 
 
