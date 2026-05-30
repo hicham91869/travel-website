@@ -41,7 +41,7 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-![Alt text](https://github.com/user-attachments/assets/00e72b83-d845-47b1-a0c0-0d05312bfbfd)
+![Image alt](https://github.com/tarekhasanalnayef/travel-website/blob/5e4ca6dfd3fe442a98282ca3faed356c4c75fefd/s1.png)
 
 
 
