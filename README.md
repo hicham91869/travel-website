@@ -42,17 +42,16 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## screenshots
 
-![Home](https://github.com/user-attachments/assets/52f841e7-b927-4ccf-a128-bea2540a1c32)
 
-![Services](https://github.com/user-attachments/assets/773edd7b-dc01-4353-8683-608ced98339c)
+![Home](./home.PNG)
 
-![Contact](https://github.com/user-attachments/assets/f8706bb4-d531-4801-b8e8-315e58b62e93)
+![Services](./services.PNG)
 
-![Favorites](https://github.com/user-attachments/assets/8f79a794-c96d-4c77-b938-cec34dfd0e36)
+![Contact](./contact.PNG)
 
-![About](https://github.com/user-attachments/assets/b0d12a9a-fb6f-4111-bef7-5d8726a3f896)
+![Favorites](./favorites.PNG)
 
-
+![About](./about.PNG) 
 
 
 
