@@ -41,8 +41,9 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 # Project Screenshots
 
-![alt image](screen1.png)
-
-
-
+![alt image](home.png)
+![alt image](about.png)
+![alt image](contact.png)
+![alt image](favorites.png)
+![alt image](services.png)
 
