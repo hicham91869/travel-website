@@ -41,15 +41,15 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-![Home](home.PNG)
+<img src="https://cdn.jsdelivr.net/gh/tarekhasanalnayef/travel-website@main/home.PNG" alt="Home Screen" width="100%" />
 
-![Services](services.PNG)
+<img src="https://cdn.jsdelivr.net/gh/tarekhasanalnayef/travel-website@main/services.PNG" alt="Services Screen" width="100%" />
 
-![Contact](contact.PNG)
+<img src="https://cdn.jsdelivr.net/gh/tarekhasanalnayef/travel-website@main/contact.PNG" alt="Contact Screen" width="100%" />
 
-![Favorites](favorites.PNG)
+<img src="https://cdn.jsdelivr.net/gh/tarekhasanalnayef/travel-website@main/favorites.PNG" alt="Favorites Screen" width="100%" />
 
-![About](about.PNG)
+<img src="https://cdn.jsdelivr.net/gh/tarekhasanalnayef/travel-website@main/about.PNG" alt="About Screen" width="100%" />
 
 
 
