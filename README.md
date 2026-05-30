@@ -42,16 +42,15 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## screenshots
 
+![Home](home.PNG)
 
-![Home](./home.PNG)
+![Services](services.PNG)
 
-![Services](./services.PNG)
+![Contact](contact.PNG)
 
-![Contact](./contact.PNG)
+![Favorites](favorites.PNG)
 
-![Favorites](./favorites.PNG)
-
-![About](./about.PNG) 
+![About](about.PNG)
 
 
 
