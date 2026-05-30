@@ -42,17 +42,17 @@ git clone https://github.com/your-username/travel-website.git
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](public/images/home.PNG)
+public/images/about.png
+public/images/contact.png
+public/images/favorites.png
+public/images/home.png
+public/images/services.png
 
-### 🧳 Services Page
-![Services](public/images/services.PNG)
 
-### 📞 Contact Page
-![Contact](public/images/contact.PNG)
 
-### ❤️ Favorites Page
-![Favorites](public/images/favorites.PNG)
 
-### ℹ️ About Page
-![About](public/images/about.PNG)
+
+
+
+
+
