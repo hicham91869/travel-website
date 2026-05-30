@@ -42,11 +42,11 @@ git clone https://github.com/your-username/travel-website.git
 
 ## 📸 Screenshots
 
-![](public/images/about.png)
-![](public/images/contact.png)
-![](public/images/favorites.png)
-![](public/images/home.png)
-![](public/images/services.png)
+![Home](./public/images/home.png)
+![CONATACT](./public/images/contact.png)
+![FAVORITES](./public/images/favorites.png)
+![ABOUT](./public/images/about.png)
+![SERVICES](./public/images/services.png)
 
 
 
