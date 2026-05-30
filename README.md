@@ -52,7 +52,7 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 <img src="https://i.postimg.cc/Y0nNnJJs/about.png" alt="About Screen" width="100%" />
 
-
+![alt image](https://github.com/tarekhasanalnayef/travel-website/issues/1)
 
 
 
