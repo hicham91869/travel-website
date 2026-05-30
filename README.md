@@ -44,7 +44,7 @@ git clone https://github.com/your-username/travel-website.git
 
 ## screenshots
 
-![image alt](https://github.com/tarekhasanalnayef/travel-website/blob/4be662567d5ac9e98f8e6c434e81496883d7a567/about.png.PNG)
+![image alt](https://github.com/tarekhasanalnayef/travel-website/blob/4be662567d5ac9e98f8e6c434e81496883d7a567/about.png)
 
 
 
