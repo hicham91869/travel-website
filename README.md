@@ -44,11 +44,10 @@ git clone https://github.com/your-username/travel-website.git
 
 ## screenshots
 
-## screenshots
+![S1](s1.png)
+![About](about.png)
+![Contact](contact.png)
 
-![S1](./s1.png)
-![About](./about.png)
-![Contact](./contact.png)
 
 
 
