@@ -42,12 +42,9 @@ git clone https://github.com/your-username/travel-website.git
 
 
 
+## screenshots
 
-![Home]()
-![Services](public/images/services.png)
-![Contact](public/images/contact.png)
-![Favorites](public/images/favorites.png)
-![image alt](https://github.com/tarekhasanalnayef/travel-website/blob/4a2166f4324b49365942f1bf069cbea0dc0331e9/about.png.PNG)
+![image alt](https://github.com/tarekhasanalnayef/travel-website/blob/4be662567d5ac9e98f8e6c434e81496883d7a567/about.png.PNG)
 
 
 
