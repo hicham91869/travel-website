@@ -41,15 +41,15 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-<img width="1340" height="720" alt="about" src="https://github.com/user-attachments/assets/c04685f6-96ac-4c80-ad87-367960ebe698" />
+<img src="about.PNG" alt="About" width="100%" />
 
-<img width="1340" height="720" alt="home" src="https://github.com/user-attachments/assets/52f841e7-b927-4ccf-a128-bea2540a1c32" />
+<img src="home.PNG" alt="Home" width="100%" />
 
-<img width="1340" height="720" alt="services" src="https://github.com/user-attachments/assets/773edd7b-dc01-4353-8683-608ced98339c" />
+<img src="services.PNG" alt="Services" width="100%" />
 
-<img width="1340" height="720" alt="favorites" src="https://github.com/user-attachments/assets/8f79a794-c96d-4c77-b938-cec34dfd0e36" />
+<img src="favorites.PNG" alt="Favorites" width="100%" />
 
-<img width="1340" height="720" alt="contact" src="https://github.com/user-attachments/assets/f8706bb4-d531-4801-b8e8-315e58b62e93" />
+<img src="contact.PNG" alt="Contact" width="100%" />
 
 
 
