@@ -41,16 +41,12 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
+<img width="1348" height="723" alt="services" src="https://github.com/user-attachments/assets/1a4af646-7e58-4f57-8f95-4bdae4a43acd" />
+<img width="1352" height="713" alt="favorites" src="https://github.com/user-attachments/assets/22dd82ba-c87c-406f-9d08-d0782f41ae52" />
+<img width="1340" height="720" alt="about" src="https://github.com/user-attachments/assets/375a127e-5c3e-490a-8c86-920ad8e33dcc" />
+<img width="1339" height="717" alt="home" src="https://github.com/user-attachments/assets/66be4e14-ff85-40f5-9c0c-fb8750f348e7" />
+<img width="1350" height="716" alt="contact" src="https://github.com/user-attachments/assets/11625ae9-e1e9-4634-85dc-a458141b97a4" />
 
-![Home](https://raw.githubusercontent.com/tarekhasanalnayef/travel-website/main/home.PNG)
-
-![Services](https://raw.githubusercontent.com/tarekhasanalnayef/travel-website/main/services.PNG)
-
-![Contact](https://raw.githubusercontent.com/tarekhasanalnayef/travel-website/main/contact.PNG)
-
-![Favorites](https://raw.githubusercontent.com/tarekhasanalnayef/travel-website/main/favorites.PNG)
-
-![About](https://raw.githubusercontent.com/tarekhasanalnayef/travel-website/main/about.PNG)
 
 
 
