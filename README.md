@@ -40,17 +40,15 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 git clone https://github.com/your-username/travel-website.git
 
 
-## 📸 Screenshots
-
-![Home](./public/images/home.png)
-![CONATACT](./public/images/contact.png)
-![FAVORITES](./public/images/favorites.png)
-![ABOUT](./public/images/about.png)
-![SERVICES](./public/images/services.png)
 
 
 
 
+![Home](./public/images/home.PNG)
+![Services](./public/images/services.PNG)
+![Contact](./public/images/contact.PNG)
+![Favorites](./public/images/favorites.PNG)
+![About](./public/images/about.PNG)
 
 
 
