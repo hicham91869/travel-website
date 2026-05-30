@@ -40,10 +40,18 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 # Project Screenshots
-
+Home
 ![alt image](home.png)
+
+About TravelPro
 ![alt image](about.png)
+
+Contact
 ![alt image](contact.png)
+
+Favorites
 ![alt image](favorites.png)
+
+Services
 ![alt image](services.png)
 
