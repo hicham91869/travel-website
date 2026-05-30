@@ -40,21 +40,17 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 # git clone https://github.com/your-username/travel-website.git
 
 
-## screenshots
-<img width="1350" height="716" alt="Image" src="https://github.com/user-attachments/assets/ca39f2c6-d0fe-4104-bb04-7a31e951a6fe" />
+## Project Screenshots
 
-<img width="1339" height="717" alt="Image" src="https://github.com/user-attachments/assets/4db67568-df5d-4d27-9de8-65871ff56d79" />
+<img src="https://i.postimg.cc/MHKbYWrK/home.png" alt="Home Screen" width="100%" />
 
-<img width="1340" height="720" alt="Image" src="https://github.com/user-attachments/assets/2972ac15-ff53-4fd3-a23a-3e7051352028" />
+<img src="https://i.postimg.cc/T3Wj0NQL/services.png" alt="Services Screen" width="100%" />
 
-<img width="1352" height="713" alt="Image" src="https://github.com/user-attachments/assets/dcca3c3a-ced3-450b-9649-7c949ec68a61" />
+<img src="https://i.postimg.cc/Qx8n6DWH/contact.png" alt="Contact Screen" width="100%" />
 
-<img width="1348" height="723" alt="Image" src="https://github.com/user-attachments/assets/7ca5e875-4dbf-4239-95dc-ef4ef3823bb8" />
+<img src="https://i.postimg.cc/zXvFbGg7/favorites.png" alt="Favorites Screen" width="100%" />
 
-
-
-![alt image](https://github.com/tarekhasanalnayef/travel-website/issues/1)
-
+<img src="https://i.postimg.cc/Y0nNnJJs/about.png" alt="About Screen" width="100%" />
 
 
 
