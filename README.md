@@ -41,15 +41,15 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 
 ## screenshots
-<img src="https://github.com/tarekhasanalnayef/travel-website1/blob/main/about.PNG?raw=true" alt="About" width="100%" />
+![Home](home.PNG)
 
-<img src="https://github.com/tarekhasanalnayef/travel-website1/blob/main/home.PNG?raw=true" alt="Home" width="100%" />
+![Services](services.PNG)
 
-<img src="https://github.com/tarekhasanalnayef/travel-website1/blob/main/services.PNG?raw=true" alt="Services" width="100%" />
+![Contact](contact.PNG)
 
-<img src="https://github.com/tarekhasanalnayef/travel-website1/blob/main/favorites.PNG?raw=true" alt="Favorites" width="100%" />
+![Favorites](favorites.PNG)
 
-<img src="https://github.com/tarekhasanalnayef/travel-website1/blob/main/contact.PNG?raw=true" alt="Contact" width="100%" />
+![About](about.PNG)
 
 
 
