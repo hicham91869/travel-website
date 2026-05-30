@@ -42,9 +42,8 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 ## screenshots
 
-![S1](https://githubusercontent.com)
-![About](https://githubusercontent.com)
-![Contact](https://githubusercontent.com)
+<img width="669" height="360" alt="s1" src="https://github.com/user-attachments/assets/739f484a-1ac0-4f57-a8f7-15f9d96f7457" />
+
 
 
 
