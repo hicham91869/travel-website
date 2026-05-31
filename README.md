@@ -48,7 +48,6 @@ npm install
 ## 🚀 How to Start the Project
 After installing the dependencies, open the terminal in the project's root folder and run the following command:
 ```bash
-Set-ExecutionPolicy Bypass -Scope Process -Force
 npm start
 ```
 The application will start locally.
