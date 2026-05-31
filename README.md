@@ -38,6 +38,10 @@ The project focuses on delivering a **professional UI/UX**, smooth user experien
 
 git clone https://github.com/hicham91869/travel-website.git
 
+## 🛠️ Installation
+
+Install dependencies using the terminal:
+npm install
 
 # Project Screenshots
 Home
