@@ -41,7 +41,18 @@ git clone https://github.com/hicham91869/travel-website.git
 ## 🛠️ Installation
 
 Install dependencies using the terminal:
+```bash
 npm install
+```
+
+## 🚀 How to Start the Project
+After installing the dependencies, open the terminal in the project's root folder and run the following command:
+```bash
+Set-ExecutionPolicy Bypass -Scope Process -Force
+npm start
+```
+The application will start locally.
+(http://localhost:3000/login).
 
 # Project Screenshots
 Home
